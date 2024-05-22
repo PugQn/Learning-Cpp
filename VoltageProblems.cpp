@@ -1,12 +1,3 @@
-/*
-Name: Claire Durant
-Student ID: 12030312
-Campus: Manawatu
-Course: 159.101 Applied Programming
-Assessment: Assignment 3
-Due date: 9 May 7pm
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <cstdlib>
