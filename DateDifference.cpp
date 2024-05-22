@@ -1,11 +1,4 @@
 /*
-Name: Claire Durant
-Student ID: 12030312
-Campus: Manawatu
-Course: 159.101 Applied Programming
-Assessment: Assignment 1
-Due date: 21 March 7pm
-
 Assumptions:
 Date input is valid
 Difference entered is within range -7 to 7
