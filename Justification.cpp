@@ -1,11 +1,4 @@
 /*
-Name: Claire Durant
-Student ID: 12030312
-Campus: Manawatu
-Course: 159.101 Applied Programming
-Assessment: Assignment 4
-Due date: 23 May 7pm
-
 Assumptions given in the assignment:
 • There will be a single space between each word.
     The textCorrect() function addresses this assumption. However, in developing
@@ -14,10 +7,6 @@ Assumptions given in the assignment:
     the sentence. If there are no erroneous spaces then the function will do 
     nothing.
 */
-    
-    
-    /* input will always be several words with a single space between each word
-    .*/
 
 #include <iostream>
 #include <string>
