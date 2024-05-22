@@ -1,13 +1,3 @@
-/*
-Name: Claire Durant
-Student ID: 12030312
-Campus: Manawatu
-Course: 159.101 Applied Programming
-Assessment: Assignment 2
-Due date: 18 April 7pm
-*/
-
-// iomanip is used to print final mark to 2 d.p. (setprecision function)
 #include <iostream>
 #include <iomanip>          
 using namespace std;
