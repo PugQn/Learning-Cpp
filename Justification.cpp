@@ -1,13 +1,3 @@
-/*
-Assumptions given in the assignment:
-• There will be a single space between each word.
-    The textCorrect() function addresses this assumption. However, in developing
-    the work around for erroneous spaces at the the beginning and end of the 
-    input I managed to develop a method to remove all erroneous spaces within
-    the sentence. If there are no erroneous spaces then the function will do 
-    nothing.
-*/
-
 #include <iostream>
 #include <string>
 using namespace std;
